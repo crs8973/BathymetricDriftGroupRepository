@@ -9,5 +9,5 @@ Step 1: Find and fork an existing repository to one team member's GitHub account
 
 Device currently doesn't work well and has not been validated at all. Data is noisy, we need to fix code and maybe update electronics.
 
-Goal for 10-28-24: Open premade project folder in VS Code and confirm it will initially compile (compiled successfully). Make sure the cellular does not turn off when running the sensor. 
+Goal for 10-28-24: Open premade project folder in VS Code and confirm it will initially compile (compiled successfully). Make sure the cellular is off when running the sensor today. Try flashing the sensor and see what data you get. 
 
