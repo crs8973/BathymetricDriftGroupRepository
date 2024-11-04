@@ -66,20 +66,23 @@ FuelGauge batteryMonitor;
 
 
 // To use Particle devices without cloud connectivity
-SYSTEM_MODE(SEMI_AUTOMATIC);
-SYSTEM_THREAD(ENABLED);
+SYSTEM_MODE(SEMI_AUTOMATIC); // Leave uncommented??
+SYSTEM_THREAD(ENABLED); 
 
 
 //===============================================================================
 // INITIALIZATION
 //===============================================================================
-void setup() {
+void setup() 
+{
+
+  Cellular.off();
 
     pinMode(MY_LED, OUTPUT);
 
     // Set up trigger and echo pins
     pinMode(TRIG_PIN, OUTPUT);
-    pinMode(ECHO_PIN, INPUT);
+    pinMode(ECHO_PIN, INPUT); 
 
 
     //Serial.begin(9600);
