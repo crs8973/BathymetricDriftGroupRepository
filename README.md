@@ -18,5 +18,5 @@ Get sensor specs: Max and min values for depth, also temp sensor specs
 
 Future Goals: Determine the buoyancy of the drifter, replace the PVC pipes that are cracked, glue the PVC pipes together more securely, stabilize the drifter. Replace the older electronics with newer versions? 
 
-
+Power booster to 5V for then back down to 3.3V 
 
