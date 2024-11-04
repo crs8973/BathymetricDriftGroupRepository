@@ -11,7 +11,8 @@ Device currently doesn't work well and has not been validated at all. Data is no
 
 10-28-24 Goals: Open premade project folder in VS Code and confirm it will initially compile (compiled successfully). Make sure the cellular data is off when running the sensor today (attempted). Try flashing the sensor and see what data you get (unable to attempt). 
 
-11-4-24 Goals: Try flashing the sensor and see what data you get. Take photos of the sensor before improvement to add to the sensor presentation. Take screengrabs of circuit diagrams, etc. for the sensor presentation. 
+11-4-24 Goals: Try flashing the sensor and see what data you get (done). Take photos of the sensor before improvement to add to the sensor presentation (done). Take screengrabs of circuit diagrams, etc. for the sensor presentation (done). 
+
 No GPS signal right now. Also need to check output in the serial monitor. GPS LED flashes every 15 seconds when it is working and flashes every 1 second for not working.
 
 11-4-24 Next Steps: Make a sensor diagram for methods page, find precision and stability, find temperature sensor specs
