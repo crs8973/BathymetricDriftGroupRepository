@@ -14,6 +14,8 @@ Device currently doesn't work well and has not been validated at all. Data is no
 11-4-24 Goals: Try flashing the sensor and see what data you get. Take photos of the sensor before improvement to add to the sensor presentation. Take screengrabs of circuit diagrams, etc. for the sensor presentation. 
 No GPS signal right now. Also need to check output in the serial monitor. GPS LED flashes every 15 seconds when it is working and flashes every 1 second for not working.
 
+Get sensor specs: Max and min values for depth, also temp sensor specs
+
 Future Goals: Determine the buoyancy of the drifter, replace the PVC pipes that are cracked, glue the PVC pipes together more securely, stabilize the drifter. Replace the older electronics with newer versions? 
 
 
