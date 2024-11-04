@@ -11,5 +11,7 @@ Device currently doesn't work well and has not been validated at all. Data is no
 
 10-28-24 Goals: Open premade project folder in VS Code and confirm it will initially compile (compiled successfully). Make sure the cellular data is off when running the sensor today (attempted). Try flashing the sensor and see what data you get (unable to attempt). 
 
-11-4-24 Goals: Try flashing the sensor and see what data you get. Determine the buoyancy of the drifter, replace the PVC pipes that are cracked, glue the PVC pipes together more securely, stabilize the drifter. Replace the older electronics with newer versions?
+11-4-24 Goals: Try flashing the sensor and see what data you get. Take photos of the sensor before improvement to add to the sensor presentation. Take screengrabs of circuit diagrams, etc. for the sensor presentation. 
+
+Future Goals: Determine the buoyancy of the drifter, replace the PVC pipes that are cracked, glue the PVC pipes together more securely, stabilize the drifter. Replace the older electronics with newer versions? 
 
