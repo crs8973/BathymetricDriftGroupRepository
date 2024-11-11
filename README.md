@@ -21,5 +21,5 @@ Future Goals: Determine the buoyancy of the drifter, replace the PVC pipes that 
 
 Power booster to 5V for then back down to 3.3V 
 
-11-11-24: Flash new electronics and make sure they work/record data, replace outer PVC frame with new pipes, reseal with silicone/marine epoxy, make sure the drifter floats, start working on data processing code to reduce noise
+11-11-24: Flash new electronics and make sure they work/record data, replace outer PVC frame with new pipes, reseal with silicone/marine epoxy, make sure the drifter floats, start working on data processing code to reduce noise, ask other groups about GPS triangulation/accuracy/precision
 
