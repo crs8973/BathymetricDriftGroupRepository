@@ -76,8 +76,6 @@ SYSTEM_THREAD(ENABLED);
 void setup() 
 {
 
-  Cellular.off();
-
     pinMode(MY_LED, OUTPUT);
 
     // Set up trigger and echo pins
