@@ -1,6 +1,4 @@
 # Bathymetric Drift Sensor
-HIGH PRIORITY: CELLULAR USE
-
 Low-cost, open-source bathymetric mapping (depth, GPS, angle, datalogging)
 
 Group Members: Autumn, Grant, Teryn, and Camille
