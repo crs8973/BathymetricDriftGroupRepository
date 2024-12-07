@@ -1,11 +1,11 @@
 # Low-cost, Open-source Bathymetric Mapping Using a Drift Sensor
 ## Authors: Autumn, Grant, Teryn, and Camille
 
-###Content 
+### Content 
 
-###Problems
+### Problems
 
-###Material
+### Material
 Low-cost, open-source bathymetric mapping (depth, GPS, angle, datalogging)
 
 This is the repository for the group working on the drifter with GPS, cellular, and bathymetric sensing. We are using a Boron sensor.
