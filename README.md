@@ -27,7 +27,7 @@ Wölfl, A.-C., Snaith, H., Amirebrahimi, S., Devey, C. W., Dorschel, B., Ferrini
 
 ## Sensor Components and Specifications
 
-### Repository Contents
+## Repository Contents
 Three main folders contain the material for this project: Data Analysis, Firmware, and Wiring.
 
 #### Data Analysis
