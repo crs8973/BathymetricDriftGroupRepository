@@ -1,5 +1,5 @@
-# Bathymetric Drift Sensor
-## Autumn, Grant, Teryn, and Camille
+# Low-cost, Open-source Bathymetric Mapping Using a Drift Sensor
+## Authors: Autumn, Grant, Teryn, and Camille
 
 ###Content 
 
