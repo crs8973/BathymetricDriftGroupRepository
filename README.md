@@ -5,16 +5,16 @@ This GitHub repository provides updated designs for a low-cost, open-source, bat
 
 We aim to further develop and validate a low-cost bathymetric drift sensor to collect reliable and reproducible depth data in shallow and difficult-to-reach waterways, along with reducing extraneous noise in the data. We attempt to address the need for more accessible bathymetric mapping tools, particularly for public and small-scale research initiatives while reducing costs associated with traditional methods. 
 
-Please read the following for a high-level overview of the project and the contents of this repository.
+Read the following for a high-level overview of the project and the contents of this repository.
 
 ## Introduction to the Bathymetric Sensor
 ![image](https://github.com/user-attachments/assets/5ab6d655-c179-49a8-b615-65a67e73bd60)
 ![image](https://github.com/user-attachments/assets/49afb274-79f5-4955-b173-9ab1973f7ebe)
 ![image](https://github.com/user-attachments/assets/94a8cc9f-7e87-456d-9d26-0d1454200074)
 
-While traditional seafloor mapping technology is extremely useful, bathymetric mapping is traditionally limited to scientists that have enough time, resources, and money to carry out mapping expeditions, meaning it is difficult to encourage public involvement in this field (Wölfl et al., 2019). Another limitation is the need for a boat and qualified personnel to transport and run the mapping instruments (Dierssen & Theberge, 2014). In areas that are inaccessible by boat, it is difficult to collect reliable bathymetric data through this methodology (Dierssen & Theberge, 2014; Wölfl et al., 2019). 
+While traditional seafloor mapping technology has many useful applications, bathymetric mapping is traditionally limited to scientists who have enough time, resources, and money to carry out mapping expeditions, meaning it is difficult to encourage public involvement in this field (Wölfl et al., 2019). Another limitation is the need for a boat and qualified personnel to transport and run the mapping instruments (Dierssen & Theberge, 2014). In areas inaccessible by boat, it is difficult to collect reliable bathymetric data through this methodology (Dierssen & Theberge, 2014; Wölfl et al., 2019). 
 
-A possible solution to these limitations is the use of bathymetric drift sensors (Cocker et al., 2022). Low coast bathymetric drift sensors have several benefits, including accessibility for public research and increased public involvement, ability to map in shallow water, lower cost and time investments, and environmental benefits such as minimizing disturbances to fragile ecosystems. 
+A possible solution to these limitations is the use of bathymetric drift sensors (Cocker et al., 2022). Low-cost bathymetric drift sensors have several benefits, including accessibility for public research and increased public involvement, the ability to map in shallow water, lower cost and time investments, and environmental benefits such as minimizing disturbances to fragile ecosystems. 
 
 ## Sensor Components and Specifications
 
