@@ -10,7 +10,7 @@ Please read the following for a high-level overview of the project and the conte
 ## Introduction to the Sensor
 ![image](https://github.com/user-attachments/assets/5ab6d655-c179-49a8-b615-65a67e73bd60)
 ![image](https://github.com/user-attachments/assets/49afb274-79f5-4955-b173-9ab1973f7ebe)
-![image](https://github.com/user-attachments/assets/cf270a0e-5207-4c34-abbd-d029dcd68102)
+![image](https://github.com/user-attachments/assets/94a8cc9f-7e87-456d-9d26-0d1454200074)
 
 ## Sensor Components and Specifications
 
