@@ -27,6 +27,8 @@ Wölfl, A.-C., Snaith, H., Amirebrahimi, S., Devey, C. W., Dorschel, B., Ferrini
 
 ## Sensor Components and Specifications
 
+## How Does the Sensor Work?
+
 ## Repository Contents
 Three main folders contain the material for this project: Data Analysis, Firmware, and Wiring.
 
