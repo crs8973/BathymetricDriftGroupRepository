@@ -12,9 +12,18 @@ Please read the following for a high-level overview of the project and the conte
 ![image](https://github.com/user-attachments/assets/49afb274-79f5-4955-b173-9ab1973f7ebe)
 ![image](https://github.com/user-attachments/assets/94a8cc9f-7e87-456d-9d26-0d1454200074)
 
-## Sensor Components and Specifications
+While traditional seafloor mapping technology is extremely useful, bathymetric mapping is traditionally limited to scientists that have enough time, resources, and money to carry out mapping expeditions, meaning it is difficult to encourage public involvement in this field (Wölfl et al., 2019). Another limitation is the need for a boat and qualified personnel to transport and run the mapping instruments (Dierssen & Theberge, 2014). In areas that are inaccessible by boat, it is difficult to collect reliable bathymetric data through this methodology (Dierssen & Theberge, 2014; Wölfl et al., 2019). A possible solution to these limitations is the use of bathymetric drift sensors (Cocker et al., 2022). Low coast bathymetric drift sensors have several benefits, including accessibility for public research and increased public involvement, ability to map in shallow water, lower cost and time investments, and environmental benefits such as minimizing disturbances to fragile ecosystems. 
 
-## Problems
+Sources
+Cocker, E., Bert, J. A., Torres, F., Shreve, M., Kalb, J., Lee, J., Poimboeuf, M., Fautley, P., Adams, S., Lee, J., Lu, J., Chua, C., Chang, N., Neltner, S., & Gray, M. (2022). Low-Cost, Intelligent Drifter Fleet for Large-Scale, Distributed Ocean Observation. OCEANS 2022, Hampton Roads, 1–8. https://doi.org/10.1109/OCEANS47191.2022.9977209
+
+Dierssen, H. & Theberge, A. (2014). Bathymetry: History of Seafloor Mapping. DOI: 10.1081/E-ENRW-120047531.
+
+Pickens, B.A . (2021). Assessment of Frying Pan Shoals as a potential sand source in the Cape Fear Region of North Carolina. Sterling (VA): US Department of the Interior, Bureau of Ocean Energy Management. OCS Study BOEM 2021-028. https://espis.boem.gov/final%20reports/BOEM_2021-028.pdf
+
+Wölfl, A.-C., Snaith, H., Amirebrahimi, S., Devey, C. W., Dorschel, B., Ferrini, V., Huvenne, V. A. I., Jakobsson, M., Jencks, J., Johnston, G., Lamarche, G., Mayer, L., Millar, D., Pedersen, T. H., Picard, K., Reitz, A., Schmitt, T., Visbeck, M., Weatherall, P., & Wigley, R. (2019). Seafloor Mapping-The Challenge of a Truly Global Ocean Bathymetry. Frontiers in Marine Science, 6, 283. https://doi.org/10.3389/fmars.2019.00283
+
+## Sensor Components and Specifications
 
 ### Repository Contents
 Three main folders contain the material for this project: Data Analysis, Firmware, and Wiring.
