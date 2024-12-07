@@ -14,7 +14,7 @@ Please read the following for a high-level overview of the project and the conte
 
 While traditional seafloor mapping technology is extremely useful, bathymetric mapping is traditionally limited to scientists that have enough time, resources, and money to carry out mapping expeditions, meaning it is difficult to encourage public involvement in this field (Wölfl et al., 2019). Another limitation is the need for a boat and qualified personnel to transport and run the mapping instruments (Dierssen & Theberge, 2014). In areas that are inaccessible by boat, it is difficult to collect reliable bathymetric data through this methodology (Dierssen & Theberge, 2014; Wölfl et al., 2019). A possible solution to these limitations is the use of bathymetric drift sensors (Cocker et al., 2022). Low coast bathymetric drift sensors have several benefits, including accessibility for public research and increased public involvement, ability to map in shallow water, lower cost and time investments, and environmental benefits such as minimizing disturbances to fragile ecosystems. 
 
-Sources
+#### Sources
 Cocker, E., Bert, J. A., Torres, F., Shreve, M., Kalb, J., Lee, J., Poimboeuf, M., Fautley, P., Adams, S., Lee, J., Lu, J., Chua, C., Chang, N., Neltner, S., & Gray, M. (2022). Low-Cost, Intelligent Drifter Fleet for Large-Scale, Distributed Ocean Observation. OCEANS 2022, Hampton Roads, 1–8. https://doi.org/10.1109/OCEANS47191.2022.9977209
 
 Dierssen, H. & Theberge, A. (2014). Bathymetry: History of Seafloor Mapping. DOI: 10.1081/E-ENRW-120047531.
