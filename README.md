@@ -18,9 +18,9 @@ Three main folders contain the material for this project: Data Analysis, Firmwar
 
 #### Data Analysis
 
-### Firmware
+#### Firmware
 
-### Wiring
+#### Wiring
 
 Include a well organized readme in the repo's highest level folder such that when someone navigates to the repo, they immediately see a nicely rendered readme file. 
 
