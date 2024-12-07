@@ -1,4 +1,4 @@
-# Low-cost, Open-source Bathymetric Mapping Using a Drift Sensor
+# Low-Cost, Open-Source Bathymetric Mapping Using a Drift Sensor
 ## Authors: Autumn, Grant, Teryn, and Camille
 
 This GitHub repository provides updated designs for a low-cost, open-source, bathymetric drift sensor. The initial design is hosted in this repository: https://github.com/SUPScientist/smart-coasts-bathy-mapping
