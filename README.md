@@ -7,11 +7,17 @@ We aim to further develop and validate a low-cost bathymetric drift sensor to co
 
 Please read the following for a high-level overview of the project and the contents of this repository.
 
-### Content 
+### Introduction to the Sensor
+
+## Sensor Components and Specifications
 
 ### Problems
 
 ### Material
+Three main folders contain the material for this project: Data Analysis, Firmware, and Wiring.
+
+#### Data Analysis
+
 Low-cost, open-source bathymetric mapping (depth, GPS, angle, datalogging)
 
 This is the repository for the group working on the drifter with GPS, cellular, and bathymetric sensing. We are using a Boron sensor.
