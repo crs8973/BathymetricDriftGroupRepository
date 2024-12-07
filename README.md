@@ -7,16 +7,17 @@ We aim to further develop and validate a low-cost bathymetric drift sensor to co
 
 Please read the following for a high-level overview of the project and the contents of this repository.
 
-### Introduction to the Sensor
+## Introduction to the Sensor
 
 ## Sensor Components and Specifications
 
-### Problems
+## Problems
 
 ### Material
 Three main folders contain the material for this project: Data Analysis, Firmware, and Wiring.
 
 #### Data Analysis
+
 
 Low-cost, open-source bathymetric mapping (depth, GPS, angle, datalogging)
 
