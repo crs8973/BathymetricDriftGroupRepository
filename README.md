@@ -16,15 +16,6 @@ While traditional seafloor mapping technology is extremely useful, bathymetric m
 
 A possible solution to these limitations is the use of bathymetric drift sensors (Cocker et al., 2022). Low coast bathymetric drift sensors have several benefits, including accessibility for public research and increased public involvement, ability to map in shallow water, lower cost and time investments, and environmental benefits such as minimizing disturbances to fragile ecosystems. 
 
-#### Sources
-Cocker, E., Bert, J. A., Torres, F., Shreve, M., Kalb, J., Lee, J., Poimboeuf, M., Fautley, P., Adams, S., Lee, J., Lu, J., Chua, C., Chang, N., Neltner, S., & Gray, M. (2022). Low-Cost, Intelligent Drifter Fleet for Large-Scale, Distributed Ocean Observation. OCEANS 2022, Hampton Roads, 1–8. https://doi.org/10.1109/OCEANS47191.2022.9977209
-
-Dierssen, H. & Theberge, A. (2014). Bathymetry: History of Seafloor Mapping. DOI: 10.1081/E-ENRW-120047531.
-
-Pickens, B.A . (2021). Assessment of Frying Pan Shoals as a potential sand source in the Cape Fear Region of North Carolina. Sterling (VA): US Department of the Interior, Bureau of Ocean Energy Management. OCS Study BOEM 2021-028. https://espis.boem.gov/final%20reports/BOEM_2021-028.pdf
-
-Wölfl, A.-C., Snaith, H., Amirebrahimi, S., Devey, C. W., Dorschel, B., Ferrini, V., Huvenne, V. A. I., Jakobsson, M., Jencks, J., Johnston, G., Lamarche, G., Mayer, L., Millar, D., Pedersen, T. H., Picard, K., Reitz, A., Schmitt, T., Visbeck, M., Weatherall, P., & Wigley, R. (2019). Seafloor Mapping-The Challenge of a Truly Global Ocean Bathymetry. Frontiers in Marine Science, 6, 283. https://doi.org/10.3389/fmars.2019.00283
-
 ## Sensor Components and Specifications
 
 ## How Does the Sensor Work?
@@ -37,6 +28,17 @@ Three main folders contain the material for this project: Data Analysis, Firmwar
 #### Firmware
 
 #### Wiring
+
+## Sources
+
+Cocker, E., Bert, J. A., Torres, F., Shreve, M., Kalb, J., Lee, J., Poimboeuf, M., Fautley, P., Adams, S., Lee, J., Lu, J., Chua, C., Chang, N., Neltner, S., & Gray, M. (2022). Low-Cost, Intelligent Drifter Fleet for Large-Scale, Distributed Ocean Observation. OCEANS 2022, Hampton Roads, 1–8. https://doi.org/10.1109/OCEANS47191.2022.9977209
+
+Dierssen, H. & Theberge, A. (2014). Bathymetry: History of Seafloor Mapping. DOI: 10.1081/E-ENRW-120047531.
+
+Pickens, B.A . (2021). Assessment of Frying Pan Shoals as a potential sand source in the Cape Fear Region of North Carolina. Sterling (VA): US Department of the Interior, Bureau of Ocean Energy Management. OCS Study BOEM 2021-028. https://espis.boem.gov/final%20reports/BOEM_2021-028.pdf
+
+Wölfl, A.-C., Snaith, H., Amirebrahimi, S., Devey, C. W., Dorschel, B., Ferrini, V., Huvenne, V. A. I., Jakobsson, M., Jencks, J., Johnston, G., Lamarche, G., Mayer, L., Millar, D., Pedersen, T. H., Picard, K., Reitz, A., Schmitt, T., Visbeck, M., Weatherall, P., & Wigley, R. (2019). Seafloor Mapping-The Challenge of a Truly Global Ocean Bathymetry. Frontiers in Marine Science, 6, 283. https://doi.org/10.3389/fmars.2019.00283
+
 
 Include a well organized readme in the repo's highest level folder such that when someone navigates to the repo, they immediately see a nicely rendered readme file. 
 
