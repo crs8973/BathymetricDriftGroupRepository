@@ -23,7 +23,7 @@ The structure of the drifter is a balance between stability and functionality. I
 
 ## How Does the Sensor Work?
 The JSN-SR04T bathymetric sensor is at the bottom of the central drifter PVC pipe. The sensor releases ultrasonic waves to measure the distance to objects below it (Figure below). When combined with a drifter, the sensor can measure bathymetry along a specific stretch of river/ocean as it travels with the currents. Ultrasonic waves emitted from the sensor move through the water column, bounce off the seafloor/river bottom, and then travel back up through the water column to the sensor. 
-
+![BathymetricSensorFunctions](https://github.com/user-attachments/assets/e54815de-0cae-4b2c-8840-a210b3b4055d)
 
 ## Repository Contents
 Three main folders contain the material for this project: Data Analysis, Firmware, and Wiring.
@@ -44,7 +44,3 @@ Pickens, B.A . (2021). Assessment of Frying Pan Shoals as a potential sand sourc
 
 Wölfl, A.-C., Snaith, H., Amirebrahimi, S., Devey, C. W., Dorschel, B., Ferrini, V., Huvenne, V. A. I., Jakobsson, M., Jencks, J., Johnston, G., Lamarche, G., Mayer, L., Millar, D., Pedersen, T. H., Picard, K., Reitz, A., Schmitt, T., Visbeck, M., Weatherall, P., & Wigley, R. (2019). Seafloor Mapping-The Challenge of a Truly Global Ocean Bathymetry. Frontiers in Marine Science, 6, 283. https://doi.org/10.3389/fmars.2019.00283
 
-
-Include a well organized readme in the repo's highest level folder such that when someone navigates to the repo, they immediately see a nicely rendered readme file. 
-
-The readme should describe what content the repo intends to provide, what problems it aims to solve, and what material can be found within (and where). 
